@@ -6,7 +6,7 @@ class NewsController {
         res.render('news');
     }    
     show(req, res) {
-        res.send('FOR DETAIL');
+        res.send('NEW CONTROLLER');
     }    
 }
 
